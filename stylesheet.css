@@ -152,7 +152,17 @@ footer{
     padding-top: 100px;
     
 }
-  
+
+#myNavbar .fa-facebook{
+    float:right;
+    padding-right: 15px;
+    padding-top: 8px;
+}  
+
+.fa-facebook{
+   color: gold;
+}
+
 #section1 .item img{
     width: 100%;
     border-radius: 35px;
